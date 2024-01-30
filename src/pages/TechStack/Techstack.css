@@ -1,0 +1,42 @@
+.techstack{
+    padding-left: 210px;
+    margin-top: 60px 0px;
+}
+.techstack h2{
+    color:#138781;
+    font-weight: bold;
+    
+
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+.techstack p{
+    padding-bottom: 3rem;
+    text-align: center;
+}
+ .techstack hr{
+    color:#138781;
+    width:300px;
+    margin:10px auto;
+
+}
+.stacklist{
+    display: flex;
+    border:1px solid rgb(216, 212, 212);
+    padding:6px;
+    gap:1rem;
+    
+    margin:-7px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+}
+.stacklist:hover{
+    background-color: rgb(0, 255, 204);
+    border-radius: 10px;
+    transition: 1s ;
+    cursor:pointer;
+
+    box-shadow: rgba(118, 228, 203, 0.904) 0px 5px 15px;
+}
